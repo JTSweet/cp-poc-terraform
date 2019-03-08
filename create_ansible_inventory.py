@@ -76,7 +76,7 @@ def read_stdin_json():
     try:
         input_json = json.loads(sys.stdin.read())
         return input_json
-    except ValueError, e:
+    except ValueError:
         print "Error: STDIN is not JSON"
         sys.exit(1)
 
