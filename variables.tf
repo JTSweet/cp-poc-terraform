@@ -22,7 +22,7 @@ variable "aws_amis" {
     "eu-west-2" = 	"ami-ee6a718a"
     "eu-west-3" = 	"ami-bfff49c2"
     "sa-east-1" = 	"ami-f9adef95"
-    "us-east-1" = 	"ami-4bf3d731"
+    "us-east-1" = 	"ami-074367288e0a175cc"
     "us-east-2" = 	"ami-e1496384"
     "us-west-1" = 	"ami-65e0e305"
     "us-west-2" = 	"ami-a042f4d8"
