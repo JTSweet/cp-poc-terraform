@@ -54,11 +54,11 @@ variable "broker_tags" {
 }
 
 variable "broker_volume_size" {
-  default = "16"
+  default = "32"
 }
 
 variable "broker_root_volume_size" {
-  default = "16"
+  default = "32"
 }
 
 variable "broker_volume_device_name" {
